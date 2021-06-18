@@ -1,1 +1,1 @@
-# hexlet-jest
+[![Node.js CI](https://github.com/milanych/hexlet-jest/actions/workflows/node.js.yml/badge.svg)](https://github.com/milanych/hexlet-jest/actions/workflows/node.js.yml)
