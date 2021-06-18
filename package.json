@@ -1,0 +1,29 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "hello, it's me",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "babel": "^6.23.0"
+  },
+  "devDependencies": {
+    "@jest/globals": "^27.0.3",
+    "babel-plugin-empower-assert": "^2.0.0",
+    "babel-preset-power-assert": "^3.0.0",
+    "espower-loader": "^1.2.2",
+    "intelli-espower-loader": "^1.1.0",
+    "jest": "^27.0.4",
+    "jest-cli": "^27.0.4",
+    "power-assert": "^1.6.1"
+  },
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {}
+  }
+}
